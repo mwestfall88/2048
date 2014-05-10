@@ -62,7 +62,8 @@ HTMLActuator.prototype.addTile = function (tile) {
   this.applyClasses(wrapper, classes);
 
   inner.classList.add("tile-inner");
-  inner.textContent = tile.value;
+  // Removed from original source code.  This displays numbers in the tiles.
+  //inner.textContent = tile.value;    
 
   if (tile.previousPosition) {
     // Make sure that the tile gets rendered in the previous position first
