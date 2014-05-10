@@ -1,4 +1,16 @@
 # 2048
+
+A 2048 of Ice and Fire!
+
+
+This is based of of the popular game 2048, created by [Gabriele Cirulli](http://gabrielecirulli.github.io/2048/)
+
+Play the Game of Thrones version [here!](http://mwestfall88.github.io/2048)
+
+
+
+### Information below is from the original 2048 README.md file
+
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
 Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
